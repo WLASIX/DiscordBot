@@ -1,0 +1,9 @@
+C:\Users\Admin\source\repos\DiscordBot\DiscordBot\bin\Debug\DiscordBot.exe.config
+C:\Users\Admin\source\repos\DiscordBot\DiscordBot\bin\Debug\DiscordBot.exe
+C:\Users\Admin\source\repos\DiscordBot\DiscordBot\bin\Debug\DiscordBot.pdb
+C:\Users\Admin\source\repos\DiscordBot\DiscordBot\bin\Debug\WebDriver.dll
+C:\Users\Admin\source\repos\DiscordBot\DiscordBot\obj\Debug\DiscordBot.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\DiscordBot\DiscordBot\obj\Debug\DiscordBot.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\DiscordBot\DiscordBot\obj\Debug\DiscordBot.csproj.CopyComplete
+C:\Users\Admin\source\repos\DiscordBot\DiscordBot\obj\Debug\DiscordBot.exe
+C:\Users\Admin\source\repos\DiscordBot\DiscordBot\obj\Debug\DiscordBot.pdb
